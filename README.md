@@ -9,3 +9,5 @@ secbot is a fully automated, AI-ML driven robot that audits a site's security. P
 
 # mapprbot
 mapprbot is a fully automated, AI-ML driven robot that maps and survey a geographical area. It wishes it has an Anemometer, a Refractometer, a Theodolite, and other high tech shiznits to assess Air Quality, measure 
+
+quantum watch
